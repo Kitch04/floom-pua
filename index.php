@@ -15,8 +15,7 @@
                 <li><a href="https://www.floom.com/">Home</a></li>
                 <li><a href="https://www.floom.com/">About</a></li>
                 <li><a href="https://www.floom.com/">Services</a></li>
-                <li><a href="https://www.floom.com/">portfolio</a></li>
-                <li><a href="https://www.floom.com/">Contact</a></li>
+                <li><a href="https://github.com/Kitch04/floom-pua">Github</a></li>
             </ul>
         </div>
 
